@@ -32,4 +32,3 @@ C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMv
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
