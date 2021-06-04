@@ -37,4 +37,4 @@ C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMv
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
-C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\bou_y\OneDrive\Documentos\Projetos\Curso Udemy\Projeto Udemy\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
